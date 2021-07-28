@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.top-section{
+    background-color: #fff;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+
+}
+.nav-link{
+    text-decoration: none;
+    color:#fba24f; 
+    font-size: 15px;
+    padding-right: 10px;
+}
